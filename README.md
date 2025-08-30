@@ -31,7 +31,7 @@ This project provides a simple Express.js server that allows you to create crypt
 
    ```
    git clone https://github.com/jumioo/crypto-payment-api/
-   cd <repository-directory>
+   cd crypto-payment-api
    ```
 
 2. **Install Dependencies**
