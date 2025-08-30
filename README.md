@@ -30,7 +30,7 @@ This project provides a simple Express.js server that allows you to create crypt
 1. **Clone the Repository**
 
    ```
-   git clone <repository-url>
+   git clone https://github.com/jumioo/crypto-payment-api/
    cd <repository-directory>
    ```
 
