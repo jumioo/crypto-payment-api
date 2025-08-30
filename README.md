@@ -64,4 +64,4 @@ This project provides a simple Express.js server that allows you to create crypt
 
 Send a GET request to `http://localhost:4197/create-wallet?currency=BTC&amount=15` with your own parameters. The response will be returned in JSON format, containing the generated wallet address and the amount in the specified cryptocurrency and if the request was successfull.
 
-![](https://i.ibb.co/zhHsNFJV/Bildschirmaufnahme-2025-08-30-um-14-52-12.gif)
+![Showcase](https://i.ibb.co/zhHsNFJV/Bildschirmaufnahme-2025-08-30-um-14-52-12.gif)
