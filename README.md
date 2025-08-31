@@ -24,6 +24,10 @@ This project provides a simple Express.js server that allows you to create crypt
 
 4. **Node.js Environment**
    - Make sure you have [Node.js](https://nodejs.org/) installed.
+  
+## Supported crypto currencies
+
+You can find all the supported cryptocurrencies here: https://plisio.net/documentation/appendices/supported-cryptocurrencies. You also need a wallet for the specific coin in the main menu.
 
 ## Setup
 
